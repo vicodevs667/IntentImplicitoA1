@@ -136,4 +136,5 @@ public class MainActivity extends AppCompatActivity {
     //hay que configurar los permisos
     //el problema tambien depende de que version este siendo utilizada
     //imagebutton usara magenes para representar la ccion de tu boton
+    //TODO camara
 }
